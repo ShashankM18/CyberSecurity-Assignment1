@@ -1,0 +1,12 @@
+.zip
+.top
+.xyz
+.tk
+.ml
+.ga
+.gq
+.cf
+.review
+.work
+.click
+.country

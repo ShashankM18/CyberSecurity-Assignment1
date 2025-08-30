@@ -1,0 +1,12 @@
+https://www.python.org/downloads/
+https://python-downloads.org/setup.exe
+http://videolan.org/vlc/
+https://www.videolan.org/vlc/
+https://notepad-plus-plus.org/downloads/
+https://notepadplusplus-downloads.com/
+https://github.com/git-for-windows/git/releases
+https://git-scm.com/downloads
+https://obsproject.com/download
+https://obsproject-downloads.com/free-setup.zip
+https://gimp.org/downloads/
+https://www.gimp.org/downloads/
